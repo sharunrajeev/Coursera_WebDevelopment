@@ -1,2 +1,2 @@
 # Coursera_WebDevelopment
- A Webdevelopemnt tracker for Coursera course
+ A Web development tracker for Coursera course
