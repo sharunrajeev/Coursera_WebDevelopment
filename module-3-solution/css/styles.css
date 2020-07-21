@@ -1,0 +1,27 @@
+/* Content Styles */
+#description {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+#description h5 {
+    text-align: center;
+}
+#box-head h5 {
+    text-align: center;
+    padding-top: 20px;
+}
+#box-head hr {
+    width: 80%;
+}
+#box {
+    box-shadow: 1px 1px 5px #100B00;
+}
+#top-bar{
+    text-align: right;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark {
+    background-color: #100B00;
+}
